@@ -1,4 +1,3 @@
-
 public enum EstadoBrasileiro {
     SAO_PAULO("SP", "São Paulo", 12),
     RIO_JANEIRO("RJ", "Rio de Janeiro", 14),
